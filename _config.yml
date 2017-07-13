@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
@@ -7,7 +7,8 @@ github: ian55668899
 author: "Sirens"
 
 name: "Sirens's Blog"
-url: /sirens.github.com
+url: http://www.sirens.github.com
+baseurl: "/sirens.github.com"
 #domain: www.panxw.com
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
